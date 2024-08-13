@@ -2017,10 +2017,10 @@ footer .credits {
     font-size: 1.3rem;
   }
 }
-#ogo-pic{
+#Logo-pic{
   height:80px;
   position:absolute;
   margin-top:-20px;
   margin-left: -80px;
-  align:right;
+  align-item:right;
 }
